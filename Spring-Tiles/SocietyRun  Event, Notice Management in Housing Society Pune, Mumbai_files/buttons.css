@@ -1,0 +1,51 @@
+.sbtnf {
+	background-position: -10000px; margin: 2px 0px; transition:0.2s ease-out; width: 31px; height: 31px; text-align: center; color: rgb(255, 255, 255); line-height: 31px; overflow: hidden; text-decoration: none; vertical-align: top; display: inline-block; -webkit-transition: all 0.2s ease-out;
+}
+.sbtnf:visited {
+	background-position: -10000px; margin: 2px 0px; transition:0.2s ease-out; width: 31px; height: 31px; text-align: center; color: rgb(255, 255, 255); line-height: 31px; overflow: hidden; text-decoration: none; vertical-align: top; display: inline-block; -webkit-transition: all 0.2s ease-out;
+}
+.sbtnf:hover {
+	text-decoration: none;
+}
+@media 
+{
+.sbtnf {
+	float: left; display: block;
+}
+}
+.icon-twitter.color {
+	background: rgb(0, 189, 236);
+}
+.icon-twitter.color:hover {
+	background: rgb(0, 0, 0);
+}
+.icon-facebook.color {
+	background: rgb(59, 89, 152);
+}
+.icon-facebook.color:hover {
+	background: rgb(0, 0, 0);
+}
+.icon-gplus.color {
+	background: rgb(217, 74, 57);
+}
+.icon-gplus.color:hover {
+	background: rgb(0, 0, 0);
+}
+.icon-linkedin.color {
+	background: rgb(27, 146, 189);
+}
+.icon-linkedin.color:hover {
+	background: rgb(0, 0, 0);
+}
+.icon-twitter.color-hover:hover {
+	background: rgb(0, 189, 236);
+}
+.icon-facebook.color-hover:hover {
+	background: rgb(59, 89, 152);
+}
+.icon-gplus.color-hover:hover {
+	background: rgb(217, 74, 57);
+}
+.icon-linkedin.color-hover:hover {
+	background: rgb(27, 146, 189);
+}
