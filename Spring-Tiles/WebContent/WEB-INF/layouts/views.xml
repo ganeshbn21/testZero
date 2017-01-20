@@ -5,7 +5,7 @@
 <tiles-definitions>
 
 	<definition name="index" extends="DefaultTemplate">
-	    <put-attribute name="body"	value="/WEB-INF/views/index.jsp" />
+	    <put-attribute name="body"	value="/WEB-INF/views/information/home_page_slider.jsp" />
 	</definition>
 
 	<definition name="personList" extends="DefaultTemplate">

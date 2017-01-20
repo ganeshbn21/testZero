@@ -1,2 +1,5 @@
 eclipse.preferences.version=1
 encoding//WebContent/WEB-INF/views/information/viewInboxInfo.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/template/footer.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/template/header.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/template/menu.jsp=UTF-8
